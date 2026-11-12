@@ -198,4 +198,4 @@ This repository serves as the official landing page for Nebo. The software is di
 **Get the most recent version of Nebo today!**
 
 ---
-**Last updated:** 2026-11-12 05:51:47 UTC
+**Last updated:** 2026-11-12 14:40:31 UTC
